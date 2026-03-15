@@ -1,0 +1,46 @@
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  box-shadow: 0.5px 5px 15px 5px rgba(0, 0, 0, 0.3);
+}
+h1 {
+  font-family: 'Pacifico', cursive; /* 'cursive' is a generic fallback for script fonts */
+  font-weight: lighter;
+  margin: -5px 0 -5px 0;
+}
+header {
+  padding: 10px;
+  border-style: none none double none;
+}
+h2 {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 0 10px 0;
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  font-size: 14px;
+}
+body {
+  background-color: slateblue;
+  font-family: Trebutchet MS;
+  color: white;
+  text-align: center;
+}
+
+a {
+  background-color: white;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+  color: s1;
+  text-decoration: none;
+}
